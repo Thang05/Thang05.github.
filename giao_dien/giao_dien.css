@@ -1,0 +1,74 @@
+a
+{
+	text-decoration: none;
+}
+
+div.menu_ngang a 
+{
+	color:#563d7c;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+	font-size:20px;
+}
+div.menu_ngang a:hover
+{
+	color:red
+}
+div.menu_doc{ line-height:30px;}
+div.menu_doc a 
+{
+	color:#563d7c;
+	text-decoration: none;
+	display:block;
+}
+div.menu_doc a:hover
+{
+	color:#390073;
+}
+div.phan_trang a 
+{
+	font-size:36px;
+	margin-left:5px;
+	margin-right:5px;
+	text-decoration: none;
+	color:#563d7c;
+}
+div.phan_trang a:hover 
+{
+	color:#390073;
+}
+.danhmuc{
+	width:100%; border:1px solid #CC0099;
+	border-radius:0px 20px 0px 0px;
+	margin-bottom:5px;}	
+.danhmuc2{
+	width:100%; border:1px solid #CC0099;
+	border-radius:20px 0px 0px 0px;
+	margin-bottom:5px;
+	}	
+.tendanhmuc{
+	text-align:center; font-size:15px; font-weight:bold; color:#fff;
+                        background:#CC0099; height:30px; line-height:30px;
+						border-radius:0px 20px 0px 0px;}
+.tendanhmuc2{
+	text-align:center; font-size:15px; font-weight:bold; color:#fff;
+                        background:#CC0099; height:30px; line-height:30px;
+						border-radius:20px 0px 0px 0px;}						
+.noidung{
+	text-indent:13px;}		
+.tensp a{
+	color:#666;}
+.giasp{
+	color:#F0F;}	
+.motasp{
+	
+	font-size:50px;}						
+ul	 li a{
+	color:#CC0099;}
+.navbar-header{
+	background:#cc0099;
+	}
+.navbar-header a{
+	color:#fff;
+	}			
